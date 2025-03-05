@@ -1,3 +1,4 @@
+
 name: GenerateSnake
 on:
   workflow_dispatch:
@@ -6,7 +7,7 @@ on:
 
 jobs:
   update-repository:
-    name: KIIIIT00
+    name: Update this repo's README with repository_owner
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -17,7 +18,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ KIIIIT00 }}
           outputs: |
             ./img/snake.svg
             ./img/snake-dark.svg?palette=github-dark
