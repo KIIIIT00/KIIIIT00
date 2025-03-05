@@ -5,8 +5,8 @@
 [![](https://raw.githubusercontent.com/KIIIIT00/KIIII/main/profile-summary-card-output/blueberry/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KIIIIT00/KIIII/main/profile-summary-card-output/blueberry/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <img src="https://github-readme-stats.vercel.app/api?username=KIIIIT00&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/KIIIIT00" target="_blank" rel="noopener noreferrer"><img alt="KIIIIT00のLAPRASでのスコアは次の通りです: エンジニアリング: undefined / 5.0, ビジネス: undefined / 5.0, インフルエンス: undefined / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=undefined&b=undefined&i=undefined&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 3/5/2025, 4:44:55 PM</p>
+<p ><a href="https://lapras.com/public/KIIIIT00" target="_blank" rel="noopener noreferrer"><img alt="KIIIIT00のLAPRASでのスコアは次の通りです: エンジニアリング: 0 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 2.31 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=0&b=2.85&i=2.31&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 3/5/2025, 5:09:18 PM</p>
 <!--END_SECTION:lapras-card-->
 
 <picture>
