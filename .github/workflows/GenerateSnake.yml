@@ -6,7 +6,7 @@ on:
 
 jobs:
   update-repository:
-    name: Update this repo's README with repository_owner
+    name: KIIIIT00
     runs-on: ubuntu-latest
     permissions:
       contents: write
