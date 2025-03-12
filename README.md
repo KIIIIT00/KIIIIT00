@@ -5,8 +5,13 @@
 [![](https://raw.githubusercontent.com/KIIIIT00/KIIII/main/profile-summary-card-output/blueberry/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KIIIIT00/KIIII/main/profile-summary-card-output/blueberry/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <img src="https://github-readme-stats.vercel.app/api?username=KIIIIT00&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
+<!--START_SECTION:lapras-card-->
+<a href="https://lapras.com/public/KIIIIT00" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=4.26&b=3.48&i=4.05&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>
+<!--END_SECTION:lapras-card-->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture>
+
