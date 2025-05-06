@@ -38,3 +38,8 @@ Last Updated on 5/6/2025, 5:14:22 AM</p>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KIIIIT00&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KIIIIT00&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KIIIIT00&theme=github_dark&utcOffset=8)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KIIIIT00/KIIIIT00/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KIIIIT00/KIIIIT00/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KIIIIT00/KIIIIT00/output/github-contribution-grid-snake.svg">
+</picture>
