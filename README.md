@@ -25,5 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiiiit00&show_icons=true&locale=en" alt="kiiiit00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiiiit00&" alt="kiiiit00" /></p>
-
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
