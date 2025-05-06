@@ -32,3 +32,9 @@
 Last Updated on 5/6/2025, 5:14:22 AM</p>
 <!--END_SECTION:lapras-card-->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KIIIIT00&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KIIIIT00&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KIIIIT00&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KIIIIT00&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KIIIIT00&theme=github_dark&utcOffset=8)
