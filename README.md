@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ノーコードでニューラルネットワークのPythonコードを生成するアプリの開発](https://zenn.dev/kenjiendou/articles/39d0a5e96b57fd)
 - [使いやすさにこだわった自作Python画像圧縮ツールの紹介](https://zenn.dev/kenjiendou/articles/88895e3b3256c0)
 - [「世界一流エンジニアの思考法」から得た学びについて](https://zenn.dev/kenjiendou/articles/2c742d9875acda)
 <!-- BLOG-POST-LIST:END -->
