@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Visual Localization**
 
-- 👨‍💻 All of my projects are available at [https://kiiiit00.github.io/](https://kiiiit00.github.io/)
+- 👨‍💻 All of my projects are available at [https://kiiiit00.github.io/my-portfolio/](https://kiiiit00.github.io/my-portfolio/)
 
 - 📝 I regularly write articles on [https://zenn.dev/kenjiendou](https://zenn.dev/kenjiendou)
 
